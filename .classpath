@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="images"/>
+	<classpathentry kind="src" path="lib"/>
+	<classpathentry kind="src" path="tests"/>
+	<classpathentry kind="src" path="src-provided"/>
+	<classpathentry kind="lib" path="C:/Users/Sander/Downloads/worms-part1/OGP1314-Worms-Part1/lib/AnnotationsDoclets.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
